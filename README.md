@@ -209,6 +209,8 @@ Ideal for:
  - Confidential financial modelling
 
 
+## Sample GUI:
+<img width="756" height="471" alt="Screenshot 2025-06-26 213114" src="https://github.com/user-attachments/assets/1cf80312-8df1-4cb5-88f3-e2ae7e7f172c" />
 
 
 ## Note:
